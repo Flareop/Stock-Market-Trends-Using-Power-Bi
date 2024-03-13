@@ -1,2 +1,2 @@
-# Stock-Market-Trends-Using-Power-Bi
-Data based project for Stock Market Analysis
+# Stock-Market-Trends-Using-Power-BI
+Created a Stock Market Dashboard 
